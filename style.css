@@ -59,9 +59,8 @@ nav{
     border:0;
 
 }
-.online{
-    position: relative;
-}
+
+
 .online::after{
     content: '';
     width: 7px;
